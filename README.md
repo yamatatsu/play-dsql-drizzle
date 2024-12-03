@@ -1,0 +1,1 @@
+# Experiment to connect to Aurora DSL with drizzle ORM

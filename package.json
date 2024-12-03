@@ -1,0 +1,25 @@
+{
+  "name": "play-dsql-drizzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/node": "^22.10.1",
+    "dotenv": "^16.4.7",
+    "drizzle-orm": "^0.37.0",
+    "pg": "^8.13.1",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.11.10",
+    "drizzle-kit": "^0.29.0",
+    "tsx": "^4.19.2"
+  }
+}
